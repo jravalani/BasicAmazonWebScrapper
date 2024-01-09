@@ -1,6 +1,5 @@
 # BasicAmazonWebScrapper
-This python notebook contains a basic implementation of web scrapping using Amazon. 
--Scrapping from ecrommerce website requires you to provide your local machine's headers.
+This python notebook contains a basic implementation of web scrapping using Amazon. Scrapping from ecrommerce website requires you to provide your local machine's headers.
 
 https://httpbin.org/get
 
